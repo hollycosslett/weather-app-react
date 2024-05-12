@@ -12,13 +12,18 @@ export default function App() {
         <p>
           {" "}
           This project was coded by{" "}
-          <a href="https://github.com/hollycosslett" target="_blank">
+          <a
+            href="https://github.com/hollycosslett"
+            target="_blank"
+            rel="noreferrer"
+          >
             Holly Cosslett
           </a>
           ,{" "}
           <a
             href="https://github.com/hollycosslett/react-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced{" "}
           </a>
@@ -26,6 +31,7 @@ export default function App() {
           <a
             href="https://weather-application-react-shecodes.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
